@@ -13,3 +13,7 @@ Comando para fechar a caixa
 comando para salvar credenciais
 
     git config credential.helper 'store'
+
+comando para limpar cache
+    
+    git rm -r --cached .
