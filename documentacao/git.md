@@ -17,3 +17,7 @@ comando para salvar credenciais
 comando para limpar cache
     
     git rm -r --cached .
+
+comando para criar nova branch
+
+    git branch "branch-name"
