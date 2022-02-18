@@ -1,5 +1,7 @@
 package conquista_01;
 
+// Criar um código que realiza todas as funções aritméticas usando os operadores
+
 public class exercicio_05 {
     public static void main(String[] args) {
 
