@@ -1,6 +1,6 @@
 # documentação GIT
 
-##Comandos GIT
+## Comandos GIT
 
 Comando para adicionar arquivos na caixa
 
