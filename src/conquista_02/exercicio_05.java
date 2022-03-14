@@ -9,7 +9,7 @@ public class exercicio_05 {
 
         int n1 = 10;
 
-        switch (n1){
+        switch (n1) {
             case 2:
                 System.out.println("number 1");
                 break;
