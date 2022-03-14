@@ -37,3 +37,10 @@ comando para deletar branch local
 comando para deletar branch remota
 
     git push origin --delete <branch name>
+
+quando terminar o trabalho na branch temporária, execute:
+
+    git merge master
+    git checkout master
+    git merge <branch temp>
+    git push
