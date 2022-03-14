@@ -18,14 +18,22 @@ comando para limpar cache
     
     git rm -r --cached .
 
-comando para criar branch
+comando para criar branch local
 
-    git branch name-branch
+    git branch <branch name>
 
-comando para acessar nova branch
+comando para acessar nova branch local
 
-    git checkout name_branch
+    git checkout <branch name>
 
-comando para deletar branch
+comando para criar e acessar nova branch
+    
+    git checkout -b <branch name>
 
-    git checkout -d name-branch
+comando para deletar branch local
+
+    git checkout -d <branch name>
+
+comando para deletar branch remota
+
+    git push origin --delete <branch name>
