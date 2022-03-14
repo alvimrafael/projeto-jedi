@@ -32,7 +32,7 @@ comando para criar e acessar nova branch
 
 comando para deletar branch local
 
-    git checkout -d <branch name>
+    git branch -d <branch name>
 
 comando para deletar branch remota
 
